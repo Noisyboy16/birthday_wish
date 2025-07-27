@@ -9,6 +9,7 @@
 - 🖼️ **Swiper.js** – For smooth image slideshow
 
 ---
+Original Credit:- https://github.com/Anuj579/
 
 ## 🖥 Local Setup
 
@@ -27,5 +28,4 @@ npm install
 # Start the development server
 npm run dev
 ```
-
 Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
